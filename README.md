@@ -23,3 +23,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulmunim21&show_icons=true&locale=en" alt="abdulmunim21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmunim21&" alt="abdulmunim21" /></p>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=AbdulMunim21.AbdulMunim21)
+[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/AbdulMunim21)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMunim21&theme=tokyonight&hide=css,html)
+
