@@ -18,5 +18,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmunim21&" alt="abdulmunim21" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMunim21&theme=tokyonight&hide=css,html)
+
 
